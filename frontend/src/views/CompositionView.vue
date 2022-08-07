@@ -1,7 +1,7 @@
 <template>
   <div class="composition_wrapper">
-    <DireitivaVBindEClasseComCondicaoCompositionApi />
-    <hr>
+    <!-- <DiretivaVBindEClasseComCondicaoCompositionApi /> -->
+    <!-- <hr>
     <RenderizacaoCondicionalCompositionApi />
     <hr>
     <ListandoDadosCompositionApi />
@@ -9,15 +9,10 @@
     <CompositionComponent />
     <hr>
     <ListagemDinamicaComponent />
-    <hr>
+    <hr> -->
 
   </div>
 </template>
 <script setup>
-import CompositionComponent from '../components/CompositionComponent.vue';
-import DireitivaVBindEClasseComCondicaoCompositionApi from '../components/DireitivaVBindEClasseComCondicaoCompositionApi.vue';
-import ListagemDinamicaComponent from '../components/ListagemDinamicaComponent.vue';
-import ListandoDadosCompositionApi from '../components/ListandoDadosCompositionApi.vue';
-import RenderizacaoCondicionalCompositionApi from '../components/RenderizacaoCondicionalCompositionApi.vue';
 
 </script>

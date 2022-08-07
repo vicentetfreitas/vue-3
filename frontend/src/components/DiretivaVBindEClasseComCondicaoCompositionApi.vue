@@ -8,17 +8,16 @@
 import { ref } from 'vue';
 
 const imgSrc = ref('https://picsum.photos/200/300');
-const classImg = ref('my-class');
 const is_admin = ref(false);
 
 </script>
 
 <style scoped>
 .my-class {
-  border-radius: 5px solid tomato;
+  border: 5px solid tomato;
 }
 
 .my-other-class {
-  border-radius: 5px solid violet;
+  border: 5px solid violet;
 }
 </style>

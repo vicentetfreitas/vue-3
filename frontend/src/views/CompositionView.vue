@@ -1,5 +1,6 @@
 <template>
   <div class="composition_wrapper">
+    <EventosComposition />
     <!-- <DiretivaVBindEClasseComCondicaoCompositionApi /> -->
     <!-- <hr>
     <RenderizacaoCondicionalCompositionApi />
@@ -14,5 +15,6 @@
   </div>
 </template>
 <script setup>
+import EventosComposition from '../components/EventosComposition.vue';
 
 </script>
